@@ -60,6 +60,7 @@ permalink: /
 
 ## 🏆 수상 경력
 - **2025년 KHU 가을 프로그래밍 경시대회 / 장려상** (2025) [상장](/assets/2025.pdf)
+- **2025 후마니타스백일장 / 장려상** (2025) [상장]()
 
 ---
 
@@ -67,6 +68,9 @@ permalink: /
 - **버그헌팅 실습 훈련 - 초급과정 [12차]** [수료증](/assets/bug.pdf)
   - 기간: 2025.08.04 ~ 2025.08.16 
   - 내용: 웹해킹 종류 및 탐지 기법 학습
+- **성균관대 AX 사이버보안 특강** [수료증]()
+  - 기간:  
+  - 내용: 
 
 ---
 
@@ -77,6 +81,6 @@ permalink: /
 ---
 
 ## 📌 기타
-- **GitHub:** https://github.com/아이디  
+- **GitHub:** https://github.com/y-willy
 - **Blog:** https://y-willy.github.io  
 - **Email:** willy0723@naver.com
