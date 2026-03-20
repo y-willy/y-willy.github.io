@@ -1,1 +1,192 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1" /><title>황윤성 - 포트폴리오</title><style>  :root { --max-width: 900px; --accent:#0b66c3; --muted:#666; font-family: "Noto Sans KR", "Nanum Gothic", system-ui, Arial, sans-serif; color:#111; }  body { margin:0; padding:24px; background:#fff; display:flex; justify-content:center; }  .container { width:100%; max-width:var(--max-width); }  .hero { text-align:center; margin-bottom:12px; }  .hero h1 { margin:0; font-size:2rem; }  .hero p { margin:6px 0 0 0; font-weight:600; color:var(--muted); }  /* 구분선 */  hr.sep { border:0; border-top:1px solid #eee; margin:18px 0; }  /* 본문: 왼쪽 정렬 강제 */  .content { text-align:left !important; padding:0 8px; line-height:1.6; }  .content h2 { margin:18px 0 8px 0; font-size:1.125rem; display:flex; align-items:center; gap:8px; }  .content p, .content li { color:#222; }  .content ul { padding-left:1.15rem; margin:6px 0; }  /* two-column header for profile card (solved.ac) */  .header-row { display:flex; justify-content:space-between; align-items:flex-start; gap:12px; }  .left-col { flex:1 1 0; }  .profile-card { width:240px; min-width:200px; border:1px solid #eee; padding:12px; border-radius:8px; background:#fafafa; font-size:0.95rem; }  .profile-card a { color:var(--accent); text-decoration:none; font-weight:600; }  .profile-card .meta { margin-top:8px; font-size:0.9rem; color:var(--muted); }  /* 섹션별 스타일 */  .section { margin-bottom:12px; }  .muted { color:var(--muted); font-size:0.95rem; }  /* 링크 스타일 */  a { color:var(--accent); text-decoration:none; }  a:hover { text-decoration:underline; }  /* responsive */  @media (max-width:760px) {    .header-row { flex-direction:column; }    .profile-card { width:100%; min-width:0; }  }</style></head><body>  <div class="container">    <div class="hero">      <h1>황윤성 <small style="font-weight:normal; font-size:0.7em">*(Hwang Youn-sung)*</small></h1>      <p>취약점 분석 · 보안 · Problem Solving 중심 개발자</p>    </div>    <hr class="sep" />    <div style="text-align: left !important; display: block !important;">    <div class="content">      <div class="header-row">        <div class="left-col">          <h2>🔹 소개</h2>          <ul>            <li><strong>핵심 역량:</strong> 알고리즘 문제 해결, Linux 시스템 운영, 네트워크 이해</li>            <li><strong>기술 스택:</strong> C++, Python, Linux</li>            <li><strong>자격증:</strong> 한국사능력검정시험 3급</li>            <li><strong>관심 분야:</strong> 취약점 분석, 보안, PS</li>          </ul>          <hr class="sep" />          <div class="section">            <h2>Tech Stack</h2>            <p><strong>Language</strong> · C++, Python</p>            <p><strong>System</strong> · Linux</p>            <p><strong>Tools</strong> · Git</p>            <p><strong>Problem Solving</strong> · Baekjoon (골드 4)</p>          </div>          <hr class="sep" />          <div class="section">            <h2>🎓 학력</h2>            <ul>              <li><strong>경희대학교 컴퓨터공학과</strong> (2023.03.01 ~ 현재)</li>              <li><strong>인하대학교 통계학과</strong> (2022.03.01 ~ 2022.12.31)</li>            </ul>          </div>          <hr class="sep" />          <div class="section">            <h2>프로젝트</h2>            <h3 style="margin:8px 0 4px 0;">dev_project</h3>            <p><strong>대한민국 국민들의 여가활동 데이터 분석</strong></p>            <ul>              <li><strong>기간:</strong> 2023.05.19 ~ 2023.06.09</li>              <li><strong>설명:</strong> KOSIS(국가통계포털)의 국민여가활동조사 데이터를 활용하여 문화활동 참여 및 선호도의 차이를 분석하고, 실제 참여와 희망 활동 간의 관계를 검증한 데이터 분석 프로젝트</li>              <li><strong>사용 기술:</strong> Python, Pandas, Matplotlib, Excel 데이터 전처리</li>              <li><strong>주요 기능:</strong> 공공데이터 수집 및 전처리, 성별/연령/소득별 참여율 비교, 가설 설정 및 검정</li>              <li><strong>성과 / 배운 점:</strong> 데이터 전처리 및 통계적 가설 검정 경험</li>            </ul>            <h3 style="margin:8px 0 4px 0;">프로젝트 이름 2</h3>            <ul>              <li><strong>기간:</strong></li>              <li><strong>설명:</strong></li>              <li><strong>사용 기술:</strong></li>              <li><strong>주요 기능:</strong></li>              <li><strong>성과 / 배운 점:</strong></li>            </ul>          </div>          <hr class="sep" />          <div class="section">            <h2>🏆 수상경력</h2>            <ul>              <li><strong>2025년 KHU 가을 프로그래밍 경시대회 장려상</strong> — <a href="/assert/2025_장려상.pdf" target="_blank" rel="noopener">상장</a></li>            </ul>          </div>          <hr class="sep" />          <div class="section">            <h2>대외활동</h2>            <h3 style="margin:6px 0 4px 0;">버그헌팅 실습 훈련 - 초급과정 [12차]</h3>            <ul>              <li><strong>기간:</strong> 2025.08.04 ~ 2025.08.16 (10시간)</li>              <li><strong>내용:</strong> 웹해킹 종류 및 탐지 기법 학습 — <a href="/assert/버그헌팅초급_수료증.pdf" target="_blank" rel="noopener">수료증</a></li>            </ul>            <h3 style="margin:6px 0 4px 0;">성균관대 AX 사이버보안 특강</h3>            <ul>              <li><strong>기간:</strong></li>              <li><strong>내용:</strong></li>              <li><strong>역할:</strong></li>              <li><strong>성과:</strong></li>            </ul>          </div>          <hr class="sep" />          <div class="section">            <h2>동아리 / 스터디</h2>            <h3 style="margin:6px 0 4px 0;">동아리 이름</h3>            <ul>              <li><strong>기간:</strong></li>              <li><strong>활동 내용:</strong></li>              <li><strong>기여한 부분:</strong></li>            </ul>            <h3 style="margin:6px 0 4px 0;">스터디 이름</h3>            <ul>              <li><strong>주제:</strong></li>              <li><strong>진행 방식:</strong></li>              <li><strong>성과:</strong></li>            </ul>          </div>          <hr class="sep" />          <div class="section">            <h2>Problem Solving</h2>            <p><strong>Baekjoon</strong> · willy (골드4)</p>            <p><strong>Solved.ac</strong> · <a href="https://solved.ac/profile/willy" target="_blank" rel="noopener">https://solved.ac/profile/willy</a></p>          </div>          <hr class="sep" />          <div class="section">            <h2>📌 기타</h2>            <ul>              <li><strong>GitHub:</strong></li>              <li><strong>Blog:</strong></li>              <li><strong>Email:</strong> <a href="mailto:willy0723@naver.com">willy0723@naver.com</a></li>            </ul>          </div>        </div>        <!-- solved.ac 요약 카드 (오른쪽) -->        <aside class="profile-card" aria-label="solved.ac profile">          <div style="font-weight:700; color:#111;">willy · solved.ac</div>          <divlayout: pagetitle: About Me# 메인에 고정하고 싶다면 layout을 home이나 page로 설정해---
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>황윤성 - 포트폴리오</title>
+<style>
+  :root { --max-width: 900px; --accent:#0b66c3; --muted:#666; font-family: "Noto Sans KR", "Nanum Gothic", system-ui, Arial, sans-serif; color:#111; }
+  body { margin:0; padding:24px; background:#fff; display:flex; justify-content:center; }
+  .container { width:100%; max-width:var(--max-width); }
+  .hero { text-align:center; margin-bottom:12px; }
+  .hero h1 { margin:0; font-size:2rem; }
+  .hero p { margin:6px 0 0 0; font-weight:600; color:var(--muted); }
+
+  /* 구분선 */
+  hr.sep { border:0; border-top:1px solid #eee; margin:18px 0; }
+
+  /* 본문: 왼쪽 정렬 강제 */
+  .content { text-align:left !important; padding:0 8px; line-height:1.6; }
+  .content h2 { margin:18px 0 8px 0; font-size:1.125rem; display:flex; align-items:center; gap:8px; }
+  .content p, .content li { color:#222; }
+  .content ul { padding-left:1.15rem; margin:6px 0; }
+
+  /* two-column header for profile card (solved.ac) */
+  .header-row { display:flex; justify-content:space-between; align-items:flex-start; gap:12px; }
+  .left-col { flex:1 1 0; }
+  .profile-card { width:240px; min-width:200px; border:1px solid #eee; padding:12px; border-radius:8px; background:#fafafa; font-size:0.95rem; }
+  .profile-card a { color:var(--accent); text-decoration:none; font-weight:600; }
+  .profile-card .meta { margin-top:8px; font-size:0.9rem; color:var(--muted); }
+
+  /* 섹션별 스타일 */
+  .section { margin-bottom:12px; }
+  .muted { color:var(--muted); font-size:0.95rem; }
+
+  /* 링크 스타일 */
+  a { color:var(--accent); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+
+  /* responsive */
+  @media (max-width:760px) {
+    .header-row { flex-direction:column; }
+    .profile-card { width:100%; min-width:0; }
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <h1>황윤성 <small style="font-weight:normal; font-size:0.7em">*(Hwang Youn-sung)*</small></h1>
+      <p>취약점 분석 · 보안 · Problem Solving 중심 개발자</p>
+    </div>
+
+    <hr class="sep" />
+    <div style="text-align: left !important; display: block !important;">
+
+    <div class="content">
+
+      <div class="header-row">
+        <div class="left-col">
+          <h2>🔹 소개</h2>
+          <ul>
+            <li><strong>핵심 역량:</strong> 알고리즘 문제 해결, Linux 시스템 운영, 네트워크 이해</li>
+            <li><strong>기술 스택:</strong> C++, Python, Linux</li>
+            <li><strong>자격증:</strong> 한국사능력검정시험 3급</li>
+            <li><strong>관심 분야:</strong> 취약점 분석, 보안, PS</li>
+          </ul>
+
+          <hr class="sep" />
+
+          <div class="section">
+            <h2>Tech Stack</h2>
+            <p><strong>Language</strong> · C++, Python</p>
+            <p><strong>System</strong> · Linux</p>
+            <p><strong>Tools</strong> · Git</p>
+            <p><strong>Problem Solving</strong> · Baekjoon (골드 4)</p>
+          </div>
+
+          <hr class="sep" />
+
+          <div class="section">
+            <h2>🎓 학력</h2>
+            <ul>
+              <li><strong>경희대학교 컴퓨터공학과</strong> (2023.03.01 ~ 현재)</li>
+              <li><strong>인하대학교 통계학과</strong> (2022.03.01 ~ 2022.12.31)</li>
+            </ul>
+          </div>
+
+          <hr class="sep" />
+
+          <div class="section">
+            <h2>프로젝트</h2>
+
+            <h3 style="margin:8px 0 4px 0;">dev_project</h3>
+            <p><strong>대한민국 국민들의 여가활동 데이터 분석</strong></p>
+            <ul>
+              <li><strong>기간:</strong> 2023.05.19 ~ 2023.06.09</li>
+              <li><strong>설명:</strong> KOSIS(국가통계포털)의 국민여가활동조사 데이터를 활용하여 문화활동 참여 및 선호도의 차이를 분석하고, 실제 참여와 희망 활동 간의 관계를 검증한 데이터 분석 프로젝트</li>
+              <li><strong>사용 기술:</strong> Python, Pandas, Matplotlib, Excel 데이터 전처리</li>
+              <li><strong>주요 기능:</strong> 공공데이터 수집 및 전처리, 성별/연령/소득별 참여율 비교, 가설 설정 및 검정</li>
+              <li><strong>성과 / 배운 점:</strong> 데이터 전처리 및 통계적 가설 검정 경험</li>
+            </ul>
+
+            <h3 style="margin:8px 0 4px 0;">프로젝트 이름 2</h3>
+            <ul>
+              <li><strong>기간:</strong></li>
+              <li><strong>설명:</strong></li>
+              <li><strong>사용 기술:</strong></li>
+              <li><strong>주요 기능:</strong></li>
+              <li><strong>성과 / 배운 점:</strong></li>
+            </ul>
+          </div>
+
+          <hr class="sep" />
+
+          <div class="section">
+            <h2>🏆 수상경력</h2>
+            <ul>
+              <li><strong>2025년 KHU 가을 프로그래밍 경시대회 장려상</strong> — <a href="/assert/2025_장려상.pdf" target="_blank" rel="noopener">상장</a></li>
+              <li><strong>2025 후마니타스백일장 장려상</strong> — <a href="" target="_blank" rel="noopener">상장</a></li>
+            </ul>
+          </div>
+
+          <hr class="sep" />
+
+          <div class="section">
+            <h2>대외활동</h2>
+
+            <h3 style="margin:6px 0 4px 0;">버그헌팅 실습 훈련 - 초급과정 [12차]</h3>
+            <ul>
+              <li><strong>기간:</strong> 2025.08.04 ~ 2025.08.16 (10시간)</li>
+              <li><strong>내용:</strong> 웹해킹 종류 및 탐지 기법 학습 — <a href="/assert/버그헌팅초급_수료증.pdf" target="_blank" rel="noopener">수료증</a></li>
+            </ul>
+
+            <h3 style="margin:6px 0 4px 0;">성균관대 AX 사이버보안 특강</h3>
+            <ul>
+              <li><strong>기간:</strong></li>
+              <li><strong>내용:</strong></li>
+              <li><strong>역할:</strong></li>
+              <li><strong>성과:</strong></li>
+            </ul>
+          </div>
+
+          <hr class="sep" />
+
+          <div class="section">
+            <h2>동아리 / 스터디</h2>
+
+            <h3 style="margin:6px 0 4px 0;">동아리 이름</h3>
+            <ul>
+              <li><strong>기간:</strong></li>
+              <li><strong>활동 내용:</strong></li>
+              <li><strong>기여한 부분:</strong></li>
+            </ul>
+
+            <h3 style="margin:6px 0 4px 0;">스터디 이름</h3>
+            <ul>
+              <li><strong>주제:</strong></li>
+              <li><strong>진행 방식:</strong></li>
+              <li><strong>성과:</strong></li>
+            </ul>
+          </div>
+
+          <hr class="sep" />
+
+          <div class="section">
+            <h2>Problem Solving</h2>
+            <p><strong>Baekjoon</strong> · willy (골드4)</p>
+            <p><strong>Solved.ac</strong> · <a href="https://solved.ac/profile/willy" target="_blank" rel="noopener">https://solved.ac/profile/willy</a></p>
+          </div>
+
+          <hr class="sep" />
+
+          <div class="section">
+            <h2>📌 기타</h2>
+          <ul>
+            <li><strong>GitHub:</strong> <a href="https://github.com/y-willy" target="_blank">https://github.com/y-willy</a></li>
+            <li><strong>Blog:</strong> <a href="https://y-willy.github.io" target="_blank">https://y-willy.github.io</a></li>
+            <li><strong>Email:</strong> <a href="mailto:willy0723@naver.com">willy0723@naver.com</a></li>
+          </ul>
+            </ul>
+          </div>
+        </div>
+
+        <!-- solved.ac 요약 카드 (오른쪽) -->
+        <aside class="profile-card" aria-label="solved.ac profile">
+          <div style="font-weight:700; color:#111;">willy · solved.ac</div>
+          <div
+
+layout: page
+title: About Me
+# 메인에 고정하고 싶다면 layout을 home이나 page로 설정해
+---
