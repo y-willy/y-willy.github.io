@@ -37,7 +37,7 @@ permalink: /
 <div class="container-custom">
   <div class="hero">
     <h1>황윤성 <small style="font-size: 0.6em; color: #868e96;">(Hwang Youn-sung)</small></h1>
-    <p>취약점 분석 · 보안 · Problem Solving 중심 개발자</p>
+    <p> 취약점 분석 · 보안 · Problem Solving 중심 개발자</p>
   </div>
 
   <div class="header-row">
@@ -52,16 +52,18 @@ permalink: /
       </div>
 
       <div class="section">
-        <h2>🛠 기술 스택</h2>
+        <h2>기술 스택</h2>
         <ul>
           <li><strong>Language:</strong> C, C++, Python</li>
+          <li><strong>OSINT,FSB </strong> </li>
           <li><strong>System & Tools:</strong> Linux, Git</li>
           <li><strong>Problem Solving:</strong> Baekjoon (Gold IV)</li>
+
         </ul>
       </div>
 
       <div class="section">
-        <h2>💻 프로젝트</h2>
+        <h2>프로젝트</h2>
         <h3>대한민국 국민들의 여가활동 데이터 분석</h3>
         <ul>
           <li><strong>기간:</strong> 2023.04 ~ 2023.06</li>
@@ -80,7 +82,7 @@ permalink: /
       </div>
 
       <div class="section">
-        <h2>🏃 대외 활동</h2>
+        <h2>대외 활동</h2>
         <ul>
           <li><strong>버그헌팅 실습 훈련 - 초급과정 [12차]</strong> — <a href="/assets/bug.pdf" target="_blank" style="color: #4dabf7;"><strong>[수료증]</strong></a></li>
           <li><strong>성균관대 AX 사이버보안 특강</strong> (최신 보안 트렌드 학습)</li>
@@ -100,7 +102,7 @@ permalink: /
     <aside class="profile-card">
       <div class="name">willy · solved.ac</div>
       <div class="tier">Gold IV</div>
-      <p style="font-size: 0.9rem; color: #adb5bd; margin-bottom: 1.5rem;">알고리즘 문제 해결 및 보안 취약점 분석에 관심이 많습니다.</p>
+      <p style="font-size: 0.9rem; color: #adb5bd; margin-bottom: 1.5rem;"> 알고리즘 및 보안 취약점 분석에 관심이 많습니다.</p>
       <a href="https://solved.ac/profile/willy" class="profile-btn" target="_blank">프로필 보기</a>
     </aside>
   </div>
